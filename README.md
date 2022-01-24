@@ -1,2 +1,1 @@
-# RGB CP Store 
-60% Keybords
+Click “Code”—“Download ZIP”
