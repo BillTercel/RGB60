@@ -1,2 +1,2 @@
-Click “Code”—“Download ZIP”
-No "save link as..."
+1.Click “Code”—“Download ZIP”
+2.No "Save link as..."
